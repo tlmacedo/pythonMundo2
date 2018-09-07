@@ -173,5 +173,3 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-aula/
-desafio/
